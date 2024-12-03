@@ -41,7 +41,7 @@ Visualization: Bar Chart.
 Metric: Count of Members.
 Dimension: Age Ranges (e.g., 18-25, 26-35, 36-50, etc.).
 Purpose: Analyze the age distribution of gym members.
-2. Health Metrics
+Health Metrics
 Visualization: Scatter Plot.
 
 X-Axis: BMI.
@@ -53,23 +53,13 @@ Visualization: Line Chart.
 Metric: Average Resting BPM.
 Dimension: Experience_Level.
 Purpose: Observe how experience level impacts resting heart rates.
-3. Workout Habits
-Visualization: Bar Chart.
 
-Metric: Average Session_Duration (hours).
-Dimension: Workout_Type.
-Purpose: Understand which workout type has the longest sessions.
-Visualization: Heatmap.
-
-Metrics: Workout_Frequency (days/week), Calories_Burned.
-Dimension: Experience_Level.
-Purpose: Show the relationship between workout frequency and calorie burn.
-4. Hydration Analysis
+Hydration Analysis
 Visualization: Column Chart.
 Metric: Water_Intake (liters).
 Dimension: Fat_Percentage Ranges (e.g., 10-20%, 21-30%).
 Purpose: Observe hydration patterns across different fat percentage ranges.
-5. Summary Cards
+Summary Cards
 Visualization: Scorecards.
 Metrics:
 Average BMI.
