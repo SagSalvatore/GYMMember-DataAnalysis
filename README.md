@@ -1,6 +1,10 @@
 # GYMMember-Data-Dashboard 🤸‍♂️🤸‍♀️⛹️💪
 ![PushUpNextLevelGIF](https://github.com/user-attachments/assets/cc34474d-5bf5-4ffe-92c8-21f4180e9db8)
 
+DASHBOARD PREVIEW- https://github.com/SagSalvatore/GYMMember-DataAnalysis/blob/main/dashboard.jpg
+
+View Full dashboard (https://lookerstudio.google.com/s/iw5QvpHKRWU)
+
 This dataset provides a detailed overview of gym members exercise routines, physical attributes, and fitness metrics. It contains 973 samples of gym data.
 Each entry also includes demographic data and experience levels, allowing for comprehensive analysis of fitness patterns, athlete progression, and health trends.
 
